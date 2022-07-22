@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio_react/static/css/main.bafe3acd.css",
-    "main.js": "/portfolio_react/static/js/main.c8861f2a.js",
+    "main.js": "/portfolio_react/static/js/main.d99efeda.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio_react/static/js/787.aeca62f9.chunk.js",
     "static/media/20220719_213047.jpg": "/portfolio_react/static/media/20220719_213047.8a64cd09750de42095dd.jpg",
+    "static/media/Resume-Karmilan-React-v1.pdf": "/portfolio_react/static/media/Resume-Karmilan-React-v1.6f584a100bd54ba1d169.pdf",
     "static/media/proj4.jpeg": "/portfolio_react/static/media/proj4.c5b04cd10d0dbb91d16e.jpeg",
     "static/media/sd3.jpg": "/portfolio_react/static/media/sd3.9bb32ffb76352eff3f87.jpg",
     "static/media/proj3.PNG": "/portfolio_react/static/media/proj3.f2de989d468eccb0fac6.PNG",
@@ -11,11 +12,11 @@
     "static/media/proj1.PNG": "/portfolio_react/static/media/proj1.09ac08f30f5a02e37a45.PNG",
     "index.html": "/portfolio_react/index.html",
     "main.bafe3acd.css.map": "/portfolio_react/static/css/main.bafe3acd.css.map",
-    "main.c8861f2a.js.map": "/portfolio_react/static/js/main.c8861f2a.js.map",
+    "main.d99efeda.js.map": "/portfolio_react/static/js/main.d99efeda.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio_react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bafe3acd.css",
-    "static/js/main.c8861f2a.js"
+    "static/js/main.d99efeda.js"
   ]
 }
